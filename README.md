@@ -1,4 +1,5 @@
 # Book Recommendation API
+<img width="420" height="502" alt="Screenshot 2025-08-15 at 12 45 01 PM" src="https://github.com/user-attachments/assets/1abb8822-06b7-4510-8a45-268350850008" />
 
 This project is a Python-based book recommendation system built with FastAPI. It provides two types of recommendations:
 
